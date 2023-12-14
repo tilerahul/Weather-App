@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main{
+  width: 100vw;
+  height: 90vh;
+}
+
+.main-div{
+  background-color: blueviolet;
+  border-radius: 8px;
+}
+
+.form{
+  margin: 2rem;
+}
+.space{
+  height: 60px;
+}
