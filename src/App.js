@@ -47,7 +47,7 @@ function App() {
                   <h4>{city.temp} °Cel</h4>
                 </div>
                 <div className="text-center text-light my-4">
-                  <h5><span className='text-dark'>Min : </span>{city.temp_min} |<span className='text-dark'> Max : </span>{city.temp_max}</h5>
+                  <h5><span>Min : </span>{city.temp_min} |<span> Max : </span>{city.temp_max}</h5>
                 </div>
               </div>
             )
