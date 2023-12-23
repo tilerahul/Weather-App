@@ -6,13 +6,14 @@
 
 .main{
   width: 100vw;
-  height: 90vh;
+  height: 85vh;
 }
 
 .main-div{
   background: rgb(121,5,245);
   background: linear-gradient(177deg, rgba(121,5,245,1) 50%, rgba(33,53,80,1) 100%);
   border-radius: 8px;
+  width: 16rem;
 }
 
 .form{
